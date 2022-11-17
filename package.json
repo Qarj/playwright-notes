@@ -1,0 +1,21 @@
+{
+  "name": "playwright-notes",
+  "version": "1.0.0",
+  "description": "Notes on the Playwright test tool",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qarj/playwright-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qarj/playwright-notes/issues"
+  },
+  "homepage": "https://github.com/Qarj/playwright-notes#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.0"
+  }
+}
