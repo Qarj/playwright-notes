@@ -104,3 +104,18 @@ Visit https://playwright.dev/docs/intro for more information. ✨
 
 Happy hacking! 🎭
 ```
+
+## test
+
+```sh
+npx playwright test
+npx playwright test example.spec.js
+npx playwright test example.spec.js --project=chromium
+npx playwright test example.spec.js --project=chromium --debug
+```
+
+## view report
+
+```sh
+npx playwright show-report
+```
